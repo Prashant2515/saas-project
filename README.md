@@ -6,13 +6,11 @@
 
 
 
-\[!\[Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat\&logo=python\&logoColor=white)](https://python.org)
+![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
+![Django](https://img.shields.io/badge/django-v5.0+-green.svg)
+![React](https://img.shields.io/badge/react-v18.0+-blue.svg)
+![PostgreSQL](https://img.shields.io/badge/postgresql-v13+-blue.svg)
 
-\[!\[Django](https://img.shields.io/badge/Django-5.0+-092E20?style=flat\&logo=django\&logoColor=white)](https://djangoproject.com)
-
-\[!\[React](https://img.shields.io/badge/React-18.0+-61DAFB?style=flat\&logo=react\&logoColor=black)](https://reactjs.org)
-
-\[!\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-4169E1?style=flat\&logo=postgresql\&logoColor=white)](https://postgresql.org)
 
 
 
@@ -312,7 +310,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 \- GitHub: \[@Prashant2515](https://github.com/Prashant2515)
 
-\- Email: your.email@example.com
+\- Email: prashant.pawar2515@gmail.com
 
 
 
